@@ -22,7 +22,7 @@
 	}
 </script>
 
-<div class="rounded-md bg-white px-4 py-5 sm:p-6">
+<div class="rounded-md bg-white p-4 sm:p-8">
 	<h1 class="text-3xl">Kyoto.go Slack Reminder</h1>
 
 	<form use:form class="mt-8 flex flex-col gap-4">
@@ -93,10 +93,6 @@
 </div>
 
 <style lang="postcss">
-	:global(html) {
-		background-color: theme(colors.gray.100);
-	}
-
 	:global(.touched:invalid) {
 		border-color: red;
 		outline-color: red;
