@@ -22,6 +22,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Kyoto.go Slack Reminder</title>
+</svelte:head>
+
 <div class="rounded-md bg-white p-4 sm:p-8">
 	<h1 class="text-3xl">Kyoto.go Slack Reminder</h1>
 
