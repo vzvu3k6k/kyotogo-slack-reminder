@@ -2,6 +2,9 @@ name: deploy-to-github-pages
 
 on:
   push:
+    branches: 
+      - main
+      - github-pages
 
 jobs:
   build:
