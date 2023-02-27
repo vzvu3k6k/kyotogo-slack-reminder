@@ -68,7 +68,7 @@
 			</select>
 		</div>
 
-		<div class="mt-6">
+		<div class="mt-4">
 			<h2 class="block text-sm font-medium text-gray-700">コマンド</h2>
 			<output class="block rounded-md bg-gray-200 mt-1 mb-2 px-4 py-5">
 				{output}
